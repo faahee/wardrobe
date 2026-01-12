@@ -1,0 +1,14 @@
+# requirements inferred from repo imports
+numpy
+opencv-python
+scikit-learn
+scikit-image
+webcolors
+Pillow
+ultralytics
+ultralyticsplus
+rembg
+torch
+transformers
+clip
+pytest
