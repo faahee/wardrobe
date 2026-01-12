@@ -1,0 +1,49 @@
+[
+  {
+    "item_type": "unknown",
+    "gender": "unknown",
+    "primary_color": "unknown",
+    "secondary_color": "unknown",
+    "season": "unknown",
+    "image": "file:///D:/mlpart_for_fashion/color_detection/images/1768152626/cutout.png"
+  },
+  {
+    "item_type": "shirt",
+    "gender": "men",
+    "primary_color": "charcoal",
+    "secondary_color": "charcoal",
+    "season": "all-season",
+    "image": "file:///D:/mlpart_for_fashion/color_detection/images/1768153081/cutout.png"
+  },
+  {
+    "item_type": "kurta",
+    "gender": "men",
+    "primary_color": "white",
+    "secondary_color": "charcoal",
+    "season": "all-season",
+    "image": "file:///D:/mlpart_for_fashion/color_detection/images/1768153252/cutout.png"
+  },
+  {
+    "item_type": "kurta",
+    "gender": "men",
+    "primary_color": "white",
+    "season": "all-season",
+    "image": "file:///D:/mlpart_for_fashion/color_detection/images/1768153552/cutout.png"
+  },
+  {
+    "item_type": "sweater",
+    "gender": "men",
+    "primary_color": "gray",
+    "season": "winter",
+    "image": "file:///D:/mlpart_for_fashion/color_detection/images/1768153722/cutout.png"
+  },
+  {
+    "item_type": "sweater",
+    "gender": "men",
+    "primary_color": "beige",
+    "primary_color_hex": "#d5c8c2",
+    "primary_color_proportion": 0.5536,
+    "season": "winter",
+    "image": "file:///D:/mlpart_for_fashion/color_detection/images/1768153858/cutout.png"
+  }
+]

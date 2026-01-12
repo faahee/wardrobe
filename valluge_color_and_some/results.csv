@@ -1,0 +1,3 @@
+image,primary_color,secondary_color,primary_rgb,secondary_rgb,primary_distance,secondary_distance,primary_css_name,primary_css_hex,primary_css_deltaE,primary_fuzzy
+imgg.png,charcoal,white,"24,43,72","246,244,241",40.311288741492746,19.949937343260004,black,#000000,26.9824474412326,dark;vibrant
+imgg2.png,mint,burgundy,"152,255,152","128,0,32",0.0,0.0,mint,#98FF98,0.0,light;vibrant

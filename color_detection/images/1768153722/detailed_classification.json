@@ -1,0 +1,16 @@
+{
+  "entry": {
+    "item_type": "sweater",
+    "gender": "men",
+    "primary_color": "gray",
+    "season": "winter",
+    "image": "file:///D:/mlpart_for_fashion/color_detection/images/1768153722/cutout.png"
+  },
+  "clip_classification": {
+    "gender": "women's clothing",
+    "type": "sweater",
+    "style": "streetwear",
+    "fit": "oversized",
+    "material": "wool"
+  }
+}

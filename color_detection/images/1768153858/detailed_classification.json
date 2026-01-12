@@ -1,0 +1,18 @@
+{
+  "entry": {
+    "item_type": "sweater",
+    "gender": "men",
+    "primary_color": "beige",
+    "primary_color_hex": "#d5c8c2",
+    "primary_color_proportion": 0.5536,
+    "season": "winter",
+    "image": "file:///D:/mlpart_for_fashion/color_detection/images/1768153858/cutout.png"
+  },
+  "clip_classification": {
+    "gender": "women's clothing",
+    "type": "sweater",
+    "style": "streetwear",
+    "fit": "oversized",
+    "material": "wool"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "entry": {
+    "item_type": "kurta",
+    "gender": "men",
+    "primary_color": "white",
+    "season": "all-season",
+    "image": "file:///D:/mlpart_for_fashion/color_detection/images/1768153552/cutout.png"
+  },
+  "clip_classification": {
+    "gender": "men's clothing",
+    "type": "kurta",
+    "style": "formal wear",
+    "fit": "slim fit",
+    "material": "polyester"
+  }
+}

@@ -1,0 +1,4 @@
+image,primary_color,secondary_color,primary_rgb,secondary_rgb,primary_distance,secondary_distance,primary_css_name,primary_css_hex,primary_css_deltaE,primary_fuzzy
+imgg.png,blue,white,"14,64,132","247,245,241",23.675796582340514,4.0366648485225705,indigo,#4B0082,42.010145400164625,dark;vibrant
+imgg2.png,mint,burgundy,"152,255,152","128,0,32",0.0,0.0,mint,#98FF98,0.0,light;vibrant
+test_half.png,beige,navy,"245,245,220","0,0,128",5.595524044110789e-14,0.0,beige,#f5f5dc,5.595524044110789e-14,light;muted

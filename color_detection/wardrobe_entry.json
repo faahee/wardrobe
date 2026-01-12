@@ -1,0 +1,74 @@
+{
+  "gender": "men",
+  "gender_top": [
+    {
+      "label": "men's clothing",
+      "prob": 0.9305697679519653
+    },
+    {
+      "label": "women's clothing",
+      "prob": 0.06943026185035706
+    }
+  ],
+  "type": "shirt",
+  "type_top": [
+    {
+      "label": "shirt",
+      "prob": 0.6435710787773132
+    },
+    {
+      "label": "jacket",
+      "prob": 0.24509012699127197
+    },
+    {
+      "label": "t-shirt",
+      "prob": 0.07861226797103882
+    }
+  ],
+  "style": "party wear",
+  "style_top": [
+    {
+      "label": "party wear",
+      "prob": 0.476833701133728
+    },
+    {
+      "label": "formal wear",
+      "prob": 0.23909617960453033
+    },
+    {
+      "label": "casual wear",
+      "prob": 0.14696723222732544
+    }
+  ],
+  "fit": "slim fit",
+  "fit_top": [
+    {
+      "label": "slim fit",
+      "prob": 0.5327239036560059
+    },
+    {
+      "label": "regular fit",
+      "prob": 0.31004419922828674
+    },
+    {
+      "label": "oversized",
+      "prob": 0.1572318822145462
+    }
+  ],
+  "material": "polyester",
+  "material_top": [
+    {
+      "label": "polyester",
+      "prob": 0.9930478930473328
+    },
+    {
+      "label": "cotton",
+      "prob": 0.0035958641674369574
+    },
+    {
+      "label": "wool",
+      "prob": 0.0029067753348499537
+    }
+  ],
+  "color": "brown"
+}

@@ -1,0 +1,17 @@
+{
+  "entry": {
+    "item_type": "shirt",
+    "gender": "men",
+    "primary_color": "charcoal",
+    "secondary_color": "charcoal",
+    "season": "all-season",
+    "image": "file:///D:/mlpart_for_fashion/color_detection/images/1768153081/cutout.png"
+  },
+  "clip_classification": {
+    "gender": "men's clothing",
+    "type": "shirt",
+    "style": "party wear",
+    "fit": "slim fit",
+    "material": "polyester"
+  }
+}
